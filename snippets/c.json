@@ -1,0 +1,16 @@
+{
+  "csnippit": {
+    "prefix": "csnippit",
+    "body": [
+      "#include<stdio.h>",
+      "",
+      "",
+      "int main(){",
+      "$1",
+      "printf(\"\");",
+      "return 0;",
+      "}"
+    ],
+    "description": "c main snippit"
+  }
+}
